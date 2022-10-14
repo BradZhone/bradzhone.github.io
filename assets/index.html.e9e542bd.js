@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as n,a as e}from"./app.aee3b152.js";const s="/images/me.png",o={},_=e("div",{align:"center"},[e("img",{src:s})],-1),r=[_];function a(i,d){return c(),n("div",null,r)}const m=t(o,[["render",a],["__file","index.html.vue"]]);export{m as default};
